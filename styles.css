@@ -1,0 +1,30 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table thead th {
+    border: 2px black solid;
+}
+
+table tr td {
+    border: 2px black solid;
+    text-align: center;
+    height: 40px;
+    width: 40px;
+}
+
+table thead .back-color2 {
+    background-color: rgb(147, 187, 189);
+}
+
+table tbody .back-color2 {
+    background-color: rgb(147, 187, 189);
+}
+
+table thead .back-color1 {
+    background-color: rgb(168, 180, 100);
+}
