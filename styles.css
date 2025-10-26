@@ -4,21 +4,24 @@ body {
 
 table {
     border-collapse: collapse;
+    border: 5px black solid;
+    width: 50%;
 }
 
 table thead th {
-    border: 2px black solid;
+    border: 5px black solid;
 }
 
 table tr td {
     border: 2px black solid;
     text-align: center;
     height: 40px;
-    width: 40px;
+    width: 60px;
 }
 
 table thead .back-color2 {
     background-color: rgb(147, 187, 189);
+    font-size: bold;
 }
 
 table tbody .back-color2 {
@@ -27,4 +30,5 @@ table tbody .back-color2 {
 
 table thead .back-color1 {
     background-color: rgb(168, 180, 100);
+    font-size: bold;
 }
