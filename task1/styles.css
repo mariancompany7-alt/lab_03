@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+table {
+    width: 500px;
+    border-collapse: collapse;
+    /* border-spacing: 10px; */
+    margin: 20px 0;
+}
+
+table thead {
+    background-color: #dae1f8;
+}
+
+table td, th {
+    border: #6395ff 1px solid;
+    padding: 5px 10px;
+} 
+
+table tfoot {
+    font-weight: bold;
+    background-color: #5776b1;
+    color: #fff;
+    text-align: end;
+}
+
+/* .table { //creating a table using divs and css
+    width: 50%;
+    display: table;
+}
+
+.row {
+    display: table-row;
+}
+
+.cell {
+    display: table-cell;
+    border: 1px solid #6395ff;
+    padding: 5px 10px;
+} */
