@@ -25,18 +25,3 @@ table tfoot {
     color: #fff;
     text-align: end;
 }
-
-/* .table { //creating a table using divs and css
-    width: 50%;
-    display: table;
-}
-
-.row {
-    display: table-row;
-}
-
-.cell {
-    display: table-cell;
-    border: 1px solid #6395ff;
-    padding: 5px 10px;
-} */
